@@ -1,0 +1,6 @@
+c:\users\deepa\documents\visual studio 2015\Projects\edxChessBoard\edxChessBoard\bin\Debug\edxChessBoard.exe.config
+c:\users\deepa\documents\visual studio 2015\Projects\edxChessBoard\edxChessBoard\bin\Debug\edxChessBoard.exe
+c:\users\deepa\documents\visual studio 2015\Projects\edxChessBoard\edxChessBoard\bin\Debug\edxChessBoard.pdb
+c:\users\deepa\documents\visual studio 2015\Projects\edxChessBoard\edxChessBoard\obj\Debug\edxChessBoard.csprojResolveAssemblyReference.cache
+c:\users\deepa\documents\visual studio 2015\Projects\edxChessBoard\edxChessBoard\obj\Debug\edxChessBoard.exe
+c:\users\deepa\documents\visual studio 2015\Projects\edxChessBoard\edxChessBoard\obj\Debug\edxChessBoard.pdb
