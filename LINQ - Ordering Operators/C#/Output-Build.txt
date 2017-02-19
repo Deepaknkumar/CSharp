@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: OrderingOperators, Configuration: Debug x86 ------
+1>  OrderingOperators -> C:\Users\deepa\Documents\GitHub\CSharp\LINQ - Ordering Operators\C#\OrderingOperators\bin\Debug\OrderingOperators.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
